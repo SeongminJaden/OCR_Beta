@@ -1,0 +1,17 @@
+C:\C#\captureOcr\captureOcr\bin\Debug\x86\liblept1753.dll
+C:\C#\captureOcr\captureOcr\bin\Debug\x86\libtesseract3052.dll
+C:\C#\captureOcr\captureOcr\bin\Debug\x64\liblept1753.dll
+C:\C#\captureOcr\captureOcr\bin\Debug\x64\libtesseract3052.dll
+C:\C#\captureOcr\captureOcr\bin\Debug\captureOcr.exe.config
+C:\C#\captureOcr\captureOcr\bin\Debug\captureOcr.exe
+C:\C#\captureOcr\captureOcr\bin\Debug\captureOcr.pdb
+C:\C#\captureOcr\captureOcr\bin\Debug\Tesseract.dll
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.csprojAssemblyReference.cache
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.Properties.Resources.resources
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.csproj.GenerateResource.cache
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.csproj.CoreCompileInputs.cache
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.csproj.CopyComplete
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.exe
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.pdb
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.Form2.resources
+C:\C#\captureOcr\captureOcr\obj\Debug\captureOcr.Form1.resources
